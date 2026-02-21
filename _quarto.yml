@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Kezhu Tao"
+  site-url: https://tkzh.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/kidt5558-sys/tkzh.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [tkzh.cn](https://www.tkzh.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -20,16 +20,14 @@ website:
     background: "#A9CCE3"
     search: true
     right: 
-      - text: "Home"
-        href: index.qmd
+      - text: "about"
+        href: about.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
+      - text: "home"
+        href: index.qmd
+      - text: "readme"
+        href: readme.qmd
       - text: "中文"
         href: Chinese.qmd
       - text: "CV"

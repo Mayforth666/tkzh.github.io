@@ -1,6 +1,6 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "Kezhu Tao"
+image: images/zhengjianzhao.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,55 +8,39 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
+      text: 15844773516@163.com
+      href: mailto:15844773516@163.com
     - icon: github
       text: arlionn
-      href: https://github.com/lianyujun
-    - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
-    - icon: fingerprint
-      text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
+      href: https://github.com/kidt5558-sys
+    - icon: brands weixin
+      text: 微信
+      href: ID：tao1572234811
+    - icon: brands QQ
+      text: QQ
+      href: ID：1572234811
 ---
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+语言技能：英语CET6、普通话二级甲等、西语学习中
+专业技能：熟悉Sora，Github, Vs code, Chatgpt，OpenAI API, Gemini, 及国产Deepseek，豆包的使用探索
+办公技能：熟练使用Office 办公软件，尤其是Excel和PowerPoint
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+自我评价：洞察力强，逻辑思维缜密，反应极快，具有很强的学习和钻研精神，直觉敏锐。强大的语言表达能力和辩论才能，人越多越能激发我的表达欲，处理事务时虽然随和但具有原则和标准；内在对自己高要求，细腻，希望把事情做得有深度。擅长深度研究、创意策划与技术支持。擅长从用户接待到服务交付的全流程把控，能敏锐捕捉用户需求并优化服务细节。对产品落地与用户体验有基础认知，逻辑清晰、执行力强。
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
-
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
+实习经历：
+- 2025.12-Present：个人AI 动漫视频创作，探索Sora与其他工具的联动应用，结合剪辑软件完成视频后期处理，形成“提示词输入—模型生成—后期优化”的标准化工作流程。结合不同场景需求调整镜头语言、时长、风格参数，提升视频生成效率与内容匹配度。（附视频作品）
+- 2025.01-2025.02：吉林省辽源市植物检疫站（政府事业单位），实习生，能结合植保场景需求，输出病虫害智能监测、绿色防控方案的
+产品功能设计思路。深耕植物检疫与农作物病虫草鼠害防治知识，擅长提炼田间防控实操要点，可转化为面向农户的线上科普内容、农技服务运营方案，助力提升用户对植保工具的使用率.
+- 2023.07-2023.08：上海藏寿餐饮管理有限公司（外企），实习生，牵头梳理并建立关键岗位发标准化操作流程（SOP），协调前后场资源，确保多人在岗时的服务标准一致性，有效降低运营差错率。在一个月内升职至SL（区域组长）。将高峰时段顾客平均等待时长缩短约20%，维护良好运营秩序.
+- 2021.06-Present：家教老师，为初中和高中学生提供数学、生物、物理、化学、英语等学科的一对一辅导，制定个性化学习计划，善于拆解复杂问题、逻辑化表达，具备良好的沟通协调与问题解决能力，具备较强的责任心与服务意识。
 
 
 ## Background
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+- Sep 2021 - Jan 2025: Bachelor of Agriculture, Hainan University, China, majoring in Plant Protection.
+- Sep 2025 - Present: Professional Master of Pharmacy, Shenzhen University, China, majoring in Pharmacology.
+
 
 :::
