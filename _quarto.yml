@@ -26,8 +26,6 @@ website:
         href: publications.qmd
       - text: "home"
         href: index.qmd
-      - text: "readme"
-        href: readme.qmd
       - text: "中文"
         href: Chinese.qmd
       - text: "CV"
@@ -36,6 +34,6 @@ website:
 format:
   html:
     theme: styles.scss
-    toc: true            # 启用目录
-    toc-position: right  # 将目录放置在页面的右侧
-    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
+    toc: true            
+    toc-position: right  
+    toc-depth: 3         
